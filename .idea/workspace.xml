@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cc052e2-b82a-41ce-8d12-c68c1757b7b7" name="Changes" comment="" />
+    <list default="true" id="7cc052e2-b82a-41ce-8d12-c68c1757b7b7" name="Changes" comment="version 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +14,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/git" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
   <component name="ProjectColorInfo">{
@@ -32,12 +32,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.laravel-idea.search-composer-json": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "/home/ui/PhpstormProjects/Directory",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -62,11 +64,40 @@
       <option name="presentableId" value="Default" />
       <updated>1699554359358</updated>
       <workItem from="1699554360624" duration="5230000" />
-      <workItem from="1699622590866" duration="2374000" />
+      <workItem from="1699622590866" duration="2626000" />
     </task>
+    <task id="LOCAL-00001" summary="version 1">
+      <option name="closed" value="true" />
+      <created>1699625582382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699625582382</updated>
+    </task>
+    <task id="LOCAL-00002" summary="version 1">
+      <option name="closed" value="true" />
+      <created>1699625596852</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699625596852</updated>
+    </task>
+    <task id="LOCAL-00003" summary="version 1">
+      <option name="closed" value="true" />
+      <created>1699625616546</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699625616546</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="version 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 1" />
   </component>
 </project>
