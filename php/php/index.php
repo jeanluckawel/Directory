@@ -3,7 +3,6 @@
 $repertoire_source= getcwd();
 if ($repertoire_source == '/home/ui'){
     echo "### 404 ###";
-
     exit();
 }
 $files = scandir($repertoire_source);
